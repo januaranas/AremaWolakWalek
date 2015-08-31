@@ -3,7 +3,7 @@ Bahasa Walikan merupakan bahasa komunikasi khas orang Malang. Bahasa Walikan ini
 
 Aplikasi sederhana ini merupakan hasil dari belajar harian.
 
-Data login = 
+Data login 
 username : password 
 admin : admin
 
